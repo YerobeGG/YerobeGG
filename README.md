@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YerobeGG
+- 👋 Hi, I’m Yerobe García Gléz
 - 👀 I’m interested in learning Programation (Python, JavaScript, CSS)
 - 🌱 I’m currently learning Python and HTML
 - 📫 How to reach me zlifeinvader@gmail.com
