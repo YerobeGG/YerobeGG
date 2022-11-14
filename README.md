@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yerobe García Gléz
-- 👀 I’m interested in learning Programation (Python, JavaScript, CSS)
+- 👀 I’m interested in learning Python, HTML, CSS and JavaScript
 - 🌱 I’m currently learning Python and HTML
 - 📫 How to reach me zlifeinvader@gmail.com
 
