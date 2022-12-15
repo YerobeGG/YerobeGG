@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yerobegg" alt="yerobegg" /></a> </p>
 
-- 🔭 I’m currently working on ** Learning Python,JavaScript and CSS **
+- 🔭 I’m currently working on projects related to CSS and Python
 
-- 🌱 I’m currently learning **Python. HTML, CSS, JavaScript**
+- 🌱 I’m currently learning Python. HTML, CSS, JavaScript
 
 - 👨‍💻 All of my projects are available on this GitHub (still working on it)
 
