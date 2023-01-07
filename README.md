@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning Python. HTML, CSS, JavaScript
 
-- 👨‍💻 All of my projects are available on this GitHub (still working on it)
+- 👨‍💻 All of my projects are available on this GitHub but still working on it
 
 - 📫 How to reach me **yerogargonz@gmail.com**
 
-- 📄 Know about my experiences still none, currently stundent
+- 📄 Know about my experiences; still none, currently stundent
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
