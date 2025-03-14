@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yerobegg" alt="yerobegg" /></a> </p>
 
-- 🔭 I’m currently working on projects related to CSS and Python
+- 🔭 I’m currently working on projects related to Pytho and Java.
 
-- 🌱 I’m currently learning Python. HTML, CSS, JavaScript
+- 🌱 I’m currently learning Python, TipeScript, Java, HTML, CSS and MySQL.
 
-- 👨‍💻 All of my projects are available on this GitHub but still working on it
+- 👨‍💻 All of my projects are available on this GitHub but still working on it.
 
-- 📫 How to reach me **yerogargonz@gmail.com**
+- 📫 How to reach me **yerogargonz@gmail.com**.
 
-- 📄 Know about my experiences; still none, currently stundent
+- 📄 Know about my experiences; still none, currently stundent.
+
+- Link to my Codewars -> https://www.codewars.com/users/CrowDeveloper/stats 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
