@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on projects related to Python, TypeScript with React.
 
-- 🌱 Always learning something new; Python, TipeScript, Java, HTML, CSS, MySQL, React.
+- 🌱 Always learning something new; Python, TypeScript, Java, HTML, CSS, MySQL, React.
 
 - 👨‍💻 Some of my projects are available on this GitHub but still working on it and on private.
 
