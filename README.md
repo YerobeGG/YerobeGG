@@ -20,7 +20,7 @@
 - Learn to do your own web with React and NextJS -> https://nextjs.org/learn/dashboard-app/getting-started
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> **yerogargonz@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
