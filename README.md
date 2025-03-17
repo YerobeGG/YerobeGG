@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Yerobe García Gléz</h1>
-<h3 align="center">A passionate student</h3>
+<h3 align="center">A passionate student/worker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yerobegg&label=Profile%20views&color=0e75b6&style=flat" alt="yerobegg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yerobegg" alt="yerobegg" /></a> </p>
 
-- 🔭 I’m currently working on projects related to Pytho and Java.
+- 🔭 I’m currently working on projects related to Python, TypeScript with React.
 
-- 🌱 I’m currently learning Python, TipeScript, Java, HTML, CSS and MySQL.
+- 🌱 Always learning something new; Python, TipeScript, Java, HTML, CSS, MySQL, React.
 
-- 👨‍💻 All of my projects are available on this GitHub but still working on it.
+- 👨‍💻 Some of my projects are available on this GitHub but still working on it and on private.
 
 - 📫 How to reach me **yerogargonz@gmail.com**.
 
-- 📄 Know about my experiences; still none, currently stundent.
+- 📄 Know about my experiences; All self-taught on my free time.
 
-- Link to my Codewars -> https://www.codewars.com/users/CrowDeveloper/stats 
+- Link to my Codewars -> https://www.codewars.com/users/CrowDeveloper/stats
+
+- Learn to do your own web with React and NextJS -> https://nextjs.org/learn/dashboard-app/getting-started
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
