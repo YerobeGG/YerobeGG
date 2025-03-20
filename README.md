@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yerobegg" alt="yerobegg" /></a> </p>
 
-- 🔭 I’m currently working on projects related to Python, TypeScript and React.
+- 🔭 I’m currently working on projects related to personal web.
 
-- 🌱 Always learning something new; Python, TypeScript, Java, HTML, CSS, MySQL, React.
+- 🌱 Always learning something new -> Python, TypeScript, Java, HTML, CSS, MySQL, React.
 
 - 👨‍💻 Some of my projects are available on this GitHub but still working on it and on private.
 
 - 📫 How to reach me **yerogargonz@gmail.com**.
 
-- 📄 Know about my experiences; All self-taught on my free time.
+- 📄 Know about my experience -> All self-taught on my free time.
+
+- Frameworks -> React and Django
 
 - Link to my Codewars -> https://www.codewars.com/users/CrowDeveloper/stats
 
