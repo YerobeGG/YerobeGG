@@ -95,7 +95,7 @@
 
 
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://gifgifs.com/animations/computers-technology/computers-and-parts/overworked.gif)"  />
+  <img height="200" src="https://gifgifs.com/animations/computers-technology/computers-and-parts/overworked.gif"  />
 </div>
 
 
