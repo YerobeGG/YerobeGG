@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Yerobe García Glez and I'm a passionate student and junior, from Spain/Tenerife</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning Python, TypeScript, MySQL and frameworks like django and react<br>🎯 Goals: My goal for the moment is to work in something related to those technologies<br>...</p>
 
 ###
 
