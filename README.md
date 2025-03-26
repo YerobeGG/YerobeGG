@@ -25,8 +25,7 @@
 
 <p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning Python, TypeScript, MySQL and frameworks like django and react<br>🎯 Goals: My goal for the moment is to work in something related to those technologies<br>
   ❤️Feel free to check my repositories to know what I`m doing... <br>
-  🔊Check my Codewars [Codewars](https://www.codewars.com/users/CrowDeveloper)
-
+  🔊Check my Codewars [![Codewars Stats](https://www.codewars.com/users/CrowDeveloper/badges/large)](https://www.codewars.com/users/CrowDeveloper)
 </p>
 
 
