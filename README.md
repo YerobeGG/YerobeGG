@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/7c41a1fd-a154-429a-abaa-05a3f02851c3)![image](https://github.com/user-attachments/assets/3238a722-6ae0-477f-b980-cab9733ad437)<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -24,8 +24,8 @@
 
 
 <p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning Python, TypeScript, MySQL and frameworks like django and react<br>🎯 Goals: My goal for the moment is to work in something related to those technologies<br>
-  Feel free to check my repositories to know what I`m doing... <br>
-  Training with codewars here [Codewars](https://www.codewars.com/users/CrowDeveloper/stats)
+  ❤️Feel free to check my repositories to know what I`m doing... <br>
+  🔊Check my Codewars [![Codewars Stats](https://www.codewars.com/users/CrowDeveloper/badges/large)](https://www.codewars.com/users/CrowDeveloper)
 </p>
 
 
