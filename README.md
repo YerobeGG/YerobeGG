@@ -1,9 +1,3 @@
-![image](https://github.com/user-attachments/assets/7c41a1fd-a154-429a-abaa-05a3f02851c3)![image](https://github.com/user-attachments/assets/3238a722-6ae0-477f-b980-cab9733ad437)<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
