@@ -24,7 +24,9 @@
 
 
 <p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning Python, TypeScript, MySQL and frameworks like django and react<br>🎯 Goals: My goal for the moment is to work in something related to those technologies<br>
-  Feel free to check my repositories to know what I`m doing...</p>
+  Feel free to check my repositories to know what I`m doing...
+  Trainign with Codewars in [Codewars](https://www.codewars.com/users/CrowDeveloper/stats)
+</p>
 
 
 
@@ -81,7 +83,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YerobeGG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-Puede visitar mi perfil de Codewars para referencias [Codewars](https://www.codewars.com/users/CrowDeveloper/stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YerobeGG/YerobeGG/output/pacman-contribution-graph-dark.svg">
